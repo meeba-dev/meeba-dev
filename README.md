@@ -1,4 +1,4 @@
-![](https://imgur.com/riKRTnA)
+<img src = "https://imgur.com/riKRTnA">
 
 
 ## HOW TO REACH ME
