@@ -1,4 +1,4 @@
-<img src = "https://imgur.com/riKRTnA">
+<img src = "./img/git-logo.jpg">
 
 
 ## HOW TO REACH ME
