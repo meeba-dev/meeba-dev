@@ -1,4 +1,4 @@
-![Git logo](./img/git-logo.JPG)
+![Git logo](./img/git-logo.jpg)
 
 
 ## HOW TO REACH ME
