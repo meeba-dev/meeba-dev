@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./img/git-logo.jpg" width="300" height="200/>
-</p>
+![](https://imgur.com/a/fLKIKCe)
+
 
 ## HOW TO REACH ME
 
