@@ -1,4 +1,4 @@
-<img src = "img/git-logo.jpg" width = "512" height = "256" />
+<img src = "https://github.com/meeba-nc/meeba-nc/blob/master/img/git-logo.jpg" width = "512" height = "256" />
 
 
 ## HOW TO REACH ME
