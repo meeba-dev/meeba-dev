@@ -1,4 +1,4 @@
-<img src = "./img/git-logo.jpg" width = "512" height = "256">
+<img src = "./img/git-logo.jpg" width = "512" height = "256" center>
 
 
 ## HOW TO REACH ME
