@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/git-logo.jpg" />
+  <img src="./img/git-logo.jpg" width="300" height="200/>
 </p>
 
 ## HOW TO REACH ME
