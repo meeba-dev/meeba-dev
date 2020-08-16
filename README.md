@@ -1,4 +1,4 @@
-![Git logo](./img/git-logo.jpg)
+<img src = "./img/git-logo.jpg" width = "512" height = "256">
 
 
 ## HOW TO REACH ME
