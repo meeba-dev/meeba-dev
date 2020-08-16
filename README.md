@@ -1,4 +1,6 @@
-![](./img/git-logo.png)
+<p align="center">
+  <img src="./img/git-logo.png" />
+</p>
 
 ## HOW TO REACH ME
 
